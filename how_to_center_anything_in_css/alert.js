@@ -1,5 +1,5 @@
 function firstFunction() {
-	swal("container {\n display: grid;\n place-items: center;\n }\n \n CSS Grid Layout excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives. Like tables, grid layout enables an author to align elements into columns and rows.");
+	swal("container {\n display: grid;\n place-items: center;\n }\n CSS Grid Layout excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives. Like tables, grid layout enables an author to align elements into columns and rows.");
 }
 function secondFunction() {
 	swal("container {\n display: block;\n margin: auto;\n }\n \n A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can). The <div> element is a block-level element. Examples of block-level elements: <div>");
