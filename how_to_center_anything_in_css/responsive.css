@@ -1,0 +1,29 @@
+@media only screen and (min-width: 360px) and (max-width: 375px) {
+			#fifth-container {
+				margin-top: 80rem;
+			}
+			#do-not-container {
+				margin-top: 12rem;
+			}
+		}
+@media only screen and (width: 375px) {
+			#fifth-container {
+				margin-top: 77rem;
+			}
+}
+@media only screen and (min-width: 411px) and (max-width: 414px) {
+			#fifth-container {
+				margin-top: 74rem;
+			}
+			#do-not-container {
+				margin-top: 15rem;
+			}
+}
+@media only screen and (max-width: 320px) {
+			#fifth-container {
+				margin-top: 86rem;
+			}
+			#do-not-container {
+				margin-top: 15rem;
+			}
+		} 
