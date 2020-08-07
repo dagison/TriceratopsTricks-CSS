@@ -4,3 +4,6 @@ This is a series of tutorials on how to fix and implement basic codes in CSS tha
 You can contribute to this series by forking or send a message to my e-mai. (thedagisons@gmail.com)
 
 Cheers!!
+
+Live site/s:
+S1: https://dagison.github.io/TriceratopsTricks-CSS/how_to_center_anything_in_css/
