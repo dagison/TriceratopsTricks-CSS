@@ -6,4 +6,4 @@ You can contribute to this series by forking or send a message to my e-mai. (the
 Cheers!!
 
 Live site/s:
-S1: https://dagison.github.io/TriceratopsTricks-CSS/how_to_center_anything_in_css/
+T1: https://dagison.github.io/TriceratopsTricks-CSS/how_to_center_anything_in_css/
